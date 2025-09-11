@@ -36,9 +36,10 @@
      # git remote add origin git@github.com:dis-ecstraining/ecs07.git
 
   □ リモートリポジトリの確認
-     # git remote -v 
+     #git remote -v 
 
   □ ローカルリポジトリをリモートリポジトリに送付
  　　# git add .
      # git commit -m "3rd"
      # git push -f origin master
+ 
